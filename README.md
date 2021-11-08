@@ -8,3 +8,5 @@ In the initialization state, all PEs will load corresponding data from memory by
 You can use QuestaSim to build and run this project.
 
 <img width="662" alt="image" src="https://user-images.githubusercontent.com/66343787/140835214-a5fe1048-080e-451a-bc26-75d99c470583.png">
+
+[EE552 Project Final Report.pdf](https://github.com/jiru1997/NOC-Convolutional-Neural-Network-implementation-with-one-CONV-layer/files/7500773/EE552.Project.Final.Report.pdf)
