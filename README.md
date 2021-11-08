@@ -6,3 +6,5 @@ In this project, we built four CNNs to take the knowledge we learned from classe
 In the initialization state, all PEs will load corresponding data from memory by using the same scheme described in the 1D PE system. After each round of computation, PEs in the same group will exchange filter data and load a new row of feature map from memory. The sum module will receive the result of each PEs and classify them by using index and sum them together before sending them back to the memory. Finally, three 5x5 result matrices will be stored back to the memory module. 
 
 You can use QuestaSim to build and run this project.
+
+<img width="662" alt="image" src="https://user-images.githubusercontent.com/66343787/140835214-a5fe1048-080e-451a-bc26-75d99c470583.png">
